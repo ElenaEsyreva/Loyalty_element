@@ -1,0 +1,26 @@
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+
+    <path d=" M 34 180.22
+    A 105 105 0 0 1 92.82 18.5"
+          stroke="lightgray"
+          fill="transparent"
+          stroke-width="10"
+          stroke-linecap="round"
+    />
+
+    <path d=" M 206 180.22
+    A 105 105 0 0 1 34 180.22"
+          fill="transparent"
+          stroke="green"
+          stroke-width="11"
+          stroke-linecap="round"/>
+
+    <path d="
+    M 147 18.5
+    A 105 105 0 0 1 206 180.22"
+          fill="transparent"
+          stroke="yellow"
+          stroke-width="12"
+          stroke-linecap="round"/>
+
+</svg>

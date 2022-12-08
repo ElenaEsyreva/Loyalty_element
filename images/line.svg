@@ -1,0 +1,30 @@
+<svg width="320" height="450" xmlns="http://www.w3.org/2000/svg">
+    <path d=" M 45 120
+    l -15 0
+    Q 20,120 20,130
+    l 0, 165"
+          stroke="lightgray"
+          fill="transparent"
+          stroke-width="2"/>
+    <path d=" M 20 275
+    l 15 0"
+          stroke="lightgray"
+          fill="transparent"
+          stroke-width="2"/>
+    <path d=" M 20 305
+    l 0 15"
+          stroke="lightgray"
+          fill="transparent"
+          stroke-width="2"/>
+    <path d=" M 12.5 312.5
+    l 15 0"
+          stroke="lightgray"
+          fill="transparent"
+          stroke-width="2"/>
+    <path d=" M 20 330
+    l 0 5
+    Q 20,342 30,340"
+          stroke="lightgray"
+          fill="transparent"
+          stroke-width="2"/>
+</svg>
